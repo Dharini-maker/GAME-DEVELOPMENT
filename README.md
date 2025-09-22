@@ -56,6 +56,8 @@ while(x <= xb)
 ```
 
 **Output :**
+
+
 ![alt text](ex1game.jpg)
 
 
